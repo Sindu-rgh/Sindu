@@ -13,3 +13,4 @@ int main(){
 		printf("factorial of %d=%llu\n",num,
 				factorial);
 	}
+	return0;}
