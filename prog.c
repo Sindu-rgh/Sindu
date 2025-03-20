@@ -8,3 +8,5 @@ int main(){
 		printf("factorial is not defined for negative numbers.\n");
 	else{
 		for(i=1;i<=num;i++){
+			factorial*=i;
+		}
