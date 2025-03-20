@@ -10,3 +10,4 @@ int main(){
 		for(i=1;i<=num;i++){
 			factorial*=i;
 		}
+		printf("factorial of %d=%llu\n",num,
