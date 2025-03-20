@@ -11,3 +11,5 @@ int main(){
 			factorial*=i;
 		}
 		printf("factorial of %d=%llu\n",num,
+				factorial);
+	}
