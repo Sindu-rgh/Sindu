@@ -5,3 +5,5 @@ int main(){
 		printf("enter a number:");
 	scanf("%d",&num);
 	if(num<0)
+		printf("factorial is not defined for negative numbers.\n");
+	else{
