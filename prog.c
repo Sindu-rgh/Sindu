@@ -7,3 +7,4 @@ int main(){
 	if(num<0)
 		printf("factorial is not defined for negative numbers.\n");
 	else{
+		for(i=1;i<=num;i++){
