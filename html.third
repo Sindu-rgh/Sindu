@@ -16,3 +16,6 @@ content="width=device-width,initial-scale=1.0">
  </head>
  <body>
  <h1>styled HTML page</h1>
+ <p>this page has a light blue background and a styled heading.</p>
+ </body>
+ </html>
