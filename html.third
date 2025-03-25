@@ -6,3 +6,5 @@ content="width=device-width,initial-scale=1.0">
 <title>styled wed page</title>
 <style>
  body{
+ background-color:lightblue;
+ text-align:centter;
